@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_bush.obj-a9953aacd0196953898e2f0561afb39e.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_bush.obj-a9953aacd0196953898e2f0561afb39e.mesh" ]
+
+source_file="res://StaticMeshes/SM_bush.obj"
+dest_files=[ "res://.import/SM_bush.obj-a9953aacd0196953898e2f0561afb39e.mesh", "res://.import/SM_bush.obj-a9953aacd0196953898e2f0561afb39e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

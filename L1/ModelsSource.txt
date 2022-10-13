@@ -1,0 +1,32 @@
+Link: https://www.cgtrader.com/items/2011355/download-page
+
+List of models used:
+SM_building1
+SM_building2
+SM_building3
+SM_building4
+SM_building5
+SM_terrain_grass1
+SM_terrain_grass2
+SM_terrain_path1
+SM_terrain_path2
+SM_sand
+SM_sky
+SM_mountain
+SM_hill_small1
+SM_hill_small2
+SM_tree1
+SM_tree2
+SM_tree3
+SM_bush
+SM_flower1
+SM_flower2
+SM_plant
+SM_rock1
+SM_rock2
+SM_rock3
+SM_rock4
+SM_rock5
+
+Best Regards,
+Donata Gliaubičiūtė IFM-1/1.

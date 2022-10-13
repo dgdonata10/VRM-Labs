@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_sky.obj-657f94658f71664c3fe7f15fd45df02a.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_sky.obj-657f94658f71664c3fe7f15fd45df02a.mesh" ]
+
+source_file="res://StaticMeshes/SM_sky.obj"
+dest_files=[ "res://.import/SM_sky.obj-657f94658f71664c3fe7f15fd45df02a.mesh", "res://.import/SM_sky.obj-657f94658f71664c3fe7f15fd45df02a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

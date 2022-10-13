@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SM_tree3.obj-4d7dfa99731214f5c2eb7b71d3360882.mesh"
+
+[deps]
+
+files=[ "res://.import/SM_tree3.obj-4d7dfa99731214f5c2eb7b71d3360882.mesh" ]
+
+source_file="res://StaticMeshes/SM_tree3.obj"
+dest_files=[ "res://.import/SM_tree3.obj-4d7dfa99731214f5c2eb7b71d3360882.mesh", "res://.import/SM_tree3.obj-4d7dfa99731214f5c2eb7b71d3360882.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
