@@ -223,6 +223,11 @@ data = PoolVector3Array( 5.6862, -0.0971, -2.4729, 4.4847, -0.0311, -0.7238, 5.2
 
 [sub_resource type="SpatialMaterial" id=65]
 albedo_texture = ExtResource( 6 )
+emission_enabled = true
+emission = Color( 0, 0, 0, 1 )
+emission_energy = 1.0
+emission_operator = 0
+emission_on_uv2 = false
 transmission_enabled = true
 transmission = Color( 1, 1, 1, 1 )
 
